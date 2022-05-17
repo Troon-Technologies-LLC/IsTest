@@ -9,7 +9,7 @@ This is the Impact Token Contract.
 
 ## Max Supply
 
-    On line 12, Max Supply is set to 1000000000 $IMPACTS
+    On line 12, Max Supply is set to 1000000000 isTest
     MAX_SUPPLY = 1000000000 * 10**18;
 
 ## Mint
